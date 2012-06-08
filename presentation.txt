@@ -1,0 +1,18 @@
+Entities as Algebraic Data Types
+  - immutability
+  - type safe pattern matching
+  - currying
+  - algebra, hence reasoning
+
+Functional Updates
+  - Lenses
+  - Zippers
+
+Typeclasses for post hoc polymorphism
+  - diff with subtyping
+  - domain behaviors can change, typeclass based approach scales better than subtyping
+  - notable typeclasses, monoids, semi-groups, monads
+
+Reasoning about the domain model
+  - Equational Reasoning
+  - Property based testing using QuickCheck / ScalaCheck
