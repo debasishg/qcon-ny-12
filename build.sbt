@@ -22,6 +22,7 @@ libraryDependencies <++= scalaVersion { scalaVersion =>
     "log4j"                          % "log4j"           % "1.2.16"           % "provided",
     "junit"                          % "junit"           % "4.8.1"            % "test",
     "org.scalatest"                 %% "scalatest"       % "1.6.1"            % "test",
+    "org.scalacheck"                %% "scalacheck"      % "1.9"              % "test",
     "org.scalaz"                    %% "scalaz-core"     % "6.0.3",
     "com.typesafe.akka"              % "akka-actor"      % "2.0",
     "com.typesafe.akka"              % "akka-testkit"    % "2.0",
