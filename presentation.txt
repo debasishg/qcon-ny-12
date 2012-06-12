@@ -8,6 +8,15 @@ Functional Updates
   - Lenses
   - Zippers
 
+Domain Logic / Rules as functions
+  - HoF
+  - Composability
+  - Expressivity
+  - Succinct
+  - Mathematical
+
+Separation of Pure and Impure
+
 Typeclasses for post hoc polymorphism
   - diff with subtyping
   - domain behaviors can change, typeclass based approach scales better than subtyping
